@@ -1,74 +1,111 @@
-# Hi, I'm Karthik Naik
+# Hi, I'm Karthik Naik 👋
 
-Software Engineer focused on building **scalable backend systems** and **production-ready full-stack applications**. I work with clean architecture, efficient APIs, and system design principles. I also explore AI/ML where it adds real-world value.
+Software Development Engineer focused on building **scalable backend systems** and **production-ready full-stack applications**. I work with clean architecture, efficient APIs, and system design principles. I also explore Generative AI / applied ML where it adds real-world value.
 
 ---
 
-##  About Me
+## 🧑‍💻 About Me
 
-- Backend-focused engineer with strong interest in **system design and scalability**
+- Backend-focused engineer with a strong interest in **system design and scalability**
+- Computer Science Engineering graduate (B.E., CGPA 7.21/10)
+- Built a **URL Shortener** that cut database read load by ~70% using Redis caching
+- Engineered a **multithreaded HTTP Proxy Server** handling 12,000+ concurrent requests
+- Completed a **Generative AI Android Development** internship at MindMatrix
 - Regularly practice **Data Structures & Algorithms**
-- Experience building **multi-threaded systems, APIs, and real-time applications**
-- Explore **applied AI/ML** for practical use-cases
+- Explore **applied AI/ML** (YOLO, SORT, CLIP, DINO) for real-world use cases
 
 ---
 
-##  Core Skills
+## 🛠️ Core Skills
 
-### Languages  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
----
-
-###  Backend Engineering  
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge) ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-000000.svg?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge)
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-###  Databases & Caching  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### Backend Engineering
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge) ![Multithreading](https://img.shields.io/badge/Multithreading-000000?style=for-the-badge) ![Socket Programming](https://img.shields.io/badge/Socket_Programming-000000?style=for-the-badge) ![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ---
 
-###  Frontend  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Databases & Caching
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-###  DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+### Full-Stack & Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge)
 
 ---
 
-###  AI / ML (Applied)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
-##  Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwanath-biradar-582b502a9/)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vishwanath_Birdr)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__vishwanath__.biradar/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwanathsbiradar1@gmail.com)
+### Testing & Core Concepts
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge) ![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge)
 
 ---
-##  GitHub Stats
+
+## 🚀 Featured Projects
+
+**[URL Shortener (Bitly Clone)](https://github.com/KaRtHiK-030)** — `Java` `Spring Boot` `MySQL` `Redis` `Docker`
+Base62-encoded URL shortening service with a Redis caching layer that cut DB read load by ~70% and dropped redirection latency from ~120ms to ~35ms; stateless REST APIs, fully containerized.
+
+**[Multithreaded HTTP Proxy Server](https://github.com/KaRtHiK-030)** — `Java` `Multithreading` `Socket Programming` `LRU Cache`
+Thread-pool-based proxy server handling 12,000+ concurrent requests with zero data loss; LRU cache with TTL eviction and rate-limiting achieving a ~65% cache hit ratio, plus real-time monitoring endpoints.
+
+**[Real-Time Object Detection & Tracking](https://github.com/KaRtHiK-030)** — `Python` `OpenCV` `YOLO` `SORT` `CLIP` `DINO`
+End-to-end detection pipeline using YOLO + SORT/centroid tracking, with DINO and CLIP integrated for richer visual feature extraction — improving classification accuracy by ~20% in dynamic environments, plus webhook-based live analytics.
+
+---
+
+## 💼 Experience
+
+**MindMatrix** — Android App Development Intern, Generative AI · *Feb 2026 – May 2026*
+Built production-ready Android apps with Generative AI features, designed REST APIs for frontend-backend communication, and improved app response time by ~30%.
+
+**Samsung Innovation Campus** — IoT Trainee · *Sep 2025 – Jan 2026*
+Developed end-to-end IoT systems using sensors and microcontrollers for real-time data monitoring.
+
+---
+
+## 🎓 Education
+
+**Cambridge Institute of Technology (VTU)** — B.E. in Computer Science Engineering · CGPA: 7.21/10 · May 2026
+
+## 📜 Certifications
+
+- NPTEL — Data Structures & Algorithms using Java (2025)
+- Samsung Innovation Campus — Internet of Things (IoT) (2026)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-naik)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthiknknaik297@gmail.com)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishwanath090&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwanath090&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KaRtHiK-030&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaRtHiK-030&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vishwanath090&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=KaRtHiK-030&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Vishwanath090&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=KaRtHiK-030&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Vishwanath090&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KaRtHiK-030&icon=0&color=0)](https://visitcount.itsvg.in)

@@ -65,16 +65,6 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
 
-### Testing & Concepts
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge\&logo=junit5\&logoColor=white)
-![JaCoCo](https://img.shields.io/badge/JaCoCo-000000?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge)
-![Concurrency](https://img.shields.io/badge/Concurrency-000000?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-000000?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge)
-
 ---
 
 ## 🚀 Featured Projects
@@ -83,11 +73,10 @@
 
 **Java • Spring Boot • MySQL • Redis • Docker**
 
-* Built a scalable URL shortening service for generating and redirecting shortened URLs.
-* Implemented Base62 encoding and Redis caching.
-* Reduced database read load by approximately 70%.
-* Improved redirection latency from approximately 120ms to 35ms.
-* Containerized using Docker for consistent deployment.
+* Built a scalable URL shortening service using Base62 encoding.
+* Implemented Redis caching layer reducing DB reads by ~70%.
+* Improved redirect latency from ~120ms to ~35ms.
+* Developed stateless REST APIs and containerized deployment.
 
 ---
 
@@ -95,11 +84,10 @@
 
 **Java • Socket Programming • Multithreading • LRU Cache**
 
-* Built a high-performance HTTP proxy server.
-* Implemented thread pools, TTL eviction, rate limiting, and LRU caching.
-* Supported over 12,000 concurrent requests.
-* Improved throughput and reduced redundant upstream traffic.
-* Optimized resource utilization under heavy load.
+* Designed a thread-pool-based HTTP proxy server.
+* Implemented caching, TTL eviction, and rate limiting.
+* Supported 12,000+ concurrent requests.
+* Achieved stable throughput with efficient resource utilization.
 
 ---
 
@@ -107,11 +95,10 @@
 
 **Kotlin • Jetpack Compose • Firebase • MVVM**
 
-* Developed a two-sided Android marketplace connecting workers and hirers.
-* Implemented MVVM architecture with Repository pattern.
+* Developed a two-sided Android marketplace.
 * Integrated Firebase Authentication, Firestore, Realtime Database, and Storage.
-* Built real-time chat, review system, profile management, and request lifecycle tracking.
-* Delivered a production-ready Android application with scalable backend integration.
+* Built real-time chat, reviews, profile management, and request lifecycle workflows.
+* Followed MVVM architecture with Repository pattern.
 
 ---
 
@@ -120,50 +107,43 @@
 ### MindMatrix
 
 **Android App Development Intern – Generative AI**
-📅 Feb 2026 – May 2026
+*Feb 2026 – May 2026*
 
 * Developed AI-enabled Android applications and backend integrations.
-* Designed and optimized REST APIs for frontend-backend communication.
-* Improved application reliability and performance.
-* Participated in Agile development, code reviews, Git workflows, and CI/CD processes.
-
----
+* Built scalable REST APIs and optimized communication workflows.
+* Participated in Agile development, code reviews, and CI/CD practices.
 
 ### Samsung Innovation Campus
 
 **IoT Trainee**
-📅 Sep 2025 – Jan 2026
+*Sep 2025 – Jan 2026*
 
-* Developed IoT solutions for real-time monitoring systems.
-* Worked with sensors, microcontrollers, and communication protocols.
-* Implemented hardware-software integration workflows for automation.
+* Developed IoT solutions for real-time monitoring.
+* Worked with sensors, microcontrollers, and automation workflows.
 
 ---
 
 ## 🎓 Education
 
-### Cambridge Institute of Technology (VTU)
+**Cambridge Institute of Technology (VTU)**
 
-**Bachelor of Engineering (Computer Science Engineering)**
+Bachelor of Engineering – Computer Science Engineering
 
-📅 Graduated: May 2026
-
-🎯 CGPA: **7.21 / 10**
+**CGPA: 7.21 / 10**
 
 ---
 
 ## 📜 Certifications
 
-🏆 NPTEL – Data Structures & Algorithms using Java (2025)
-
-🏆 Samsung Innovation Campus – Internet of Things (IoT) (2026)
+* NPTEL – Data Structures & Algorithms using Java (2025)
+* Samsung Innovation Campus – Internet of Things (IoT) (2026)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaRtHiK-030&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KaRtHiK-030&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaRtHiK-030&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -173,18 +153,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaRtHiK-030&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaRtHiK-030&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaRtHiK-030&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -192,22 +164,20 @@
 ## 📋 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaRtHiK-030&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaRtHiK-030&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaRtHiK-030&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaRtHiK-030&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaRtHiK-030&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaRtHiK-030&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karthik-naik-/">
@@ -220,4 +190,4 @@
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+⭐ Open to Software Development Engineer, Backend Developer, and Java Developer opportunities.

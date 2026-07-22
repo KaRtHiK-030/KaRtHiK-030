@@ -1,167 +1,232 @@
 # Hi, I'm Karthik Naik 👋
 
-<h3 align="center">Software Development Engineer | Backend Engineering | Java | Spring Boot | Distributed Systems</h3>
+<h3 align="center">
+Software Development Engineer | Backend Engineer | Java | Spring Boot
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karthik-naik-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Backend+Engineer;Java+%7C+Spring+Boot+%7C+REST+APIs;Always+Learning+New+Technologies">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Backend+Engineer;Java+%7C+Spring+Boot+%7C+REST+APIs;Always+Learning+New+Technologies" />
   </a>
-  <a href="mailto:karthiknknaik297@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/KaRtHiK-030">
-    <img src="https://img.shields.io/github/followers/KaRtHiK-030?label=Followers&style=social" />
-  </a>
+</p>
+
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=KaRtHiK-030"><img src="https://komarev.com/ghpvc/?username=KaRtHiK-030&style=for-the-badge"/></a>
+<a href="https://github.com/KaRtHiK-030"><img src="https://img.shields.io/github/followers/KaRtHiK-030?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/karthik-naik-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:karthiknknaik297@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 Computer Science Engineering Graduate from Cambridge Institute of Technology (VTU)
-* 💻 Backend-focused Software Engineer passionate about scalable systems
-* ⚡ Strong expertise in Java, Spring Boot, REST APIs, and Distributed Systems
-* 🔥 Built a URL Shortener reducing database load by ~70% using Redis
-* 🌐 Engineered a Multithreaded HTTP Proxy Server supporting 12,000+ concurrent requests
-* 📱 Developed NammaKelsa, a worker-hirer marketplace using Kotlin and Firebase
-* 🧠 Strong foundation in DSA, OOP, Concurrency, Caching, and System Design
-* 🎯 Actively seeking Software Development Engineer and Backend Developer opportunities
+Backend-focused Software Development Engineer passionate about designing scalable backend systems using **Java, Spring Boot, Redis, MySQL, Docker, and REST APIs**.
 
----
+I enjoy building high-performance applications, writing clean and maintainable code, designing concurrent systems, and solving real-world engineering problems.
 
-## 🛠️ Tech Stack
+Currently expanding my expertise in **Spring Security, Docker, Kubernetes, AWS, and System Design**.
 
-### Languages
+I enjoy continuously learning new technologies and applying them to build reliable, scalable, and efficient software solutions.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Backend Development
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-000000?style=for-the-badge)
-![Multithreading](https://img.shields.io/badge/Multithreading-000000?style=for-the-badge)
-![Socket Programming](https://img.shields.io/badge/Socket_Programming-000000?style=for-the-badge)
-
-### Databases & Caching
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge\&logo=redis\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-### Tools & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
+🎯 Open to **Software Development Engineer (SDE)**, **Backend Engineer**, and **Java Developer** opportunities.
 
 ---
 
-## 🚀 Featured Projects
+# 📌 Quick Facts
 
-### 🔗 URL Shortener (Bitly Clone)
-
-**Java • Spring Boot • MySQL • Redis • Docker**
-
-* Built a scalable URL shortening service using Base62 encoding.
-* Implemented Redis caching layer reducing DB reads by ~70%.
-* Improved redirect latency from ~120ms to ~35ms.
-* Developed stateless REST APIs and containerized deployment.
+- 🎓 B.E. Computer Science Engineering
+- 💼 Backend-focused Software Development Engineer
+- 🌍 Based in Bengaluru, India
+- ☕ Java • Spring Boot • REST APIs
+- 🚀 Open to Full-time Software Development Engineer roles
 
 ---
 
-### 🌐 Multithreaded HTTP Proxy Server
+# 🏆 Highlights
 
-**Java • Socket Programming • Multithreading • LRU Cache**
-
-* Designed a thread-pool-based HTTP proxy server.
-* Implemented caching, TTL eviction, and rate limiting.
-* Supported 12,000+ concurrent requests.
-* Achieved stable throughput with efficient resource utilization.
+- 🚀 Built a scalable URL Shortener using Java, Spring Boot, Redis, MySQL, and Docker.
+- 🌐 Developed a Multithreaded HTTP Proxy Server using Java Sockets and Thread Pools.
+- 📱 Built NammaKelsa, a worker–hirer marketplace using Kotlin and Firebase.
+- 💻 Passionate about Backend Engineering, REST APIs, Concurrent Programming, and Scalable System Design.
 
 ---
 
-### 📱 NammaKelsa – Worker-Hirer Marketplace
+# 💡 Core Competencies
 
-**Kotlin • Jetpack Compose • Firebase • MVVM**
-
-* Developed a two-sided Android marketplace.
-* Integrated Firebase Authentication, Firestore, Realtime Database, and Storage.
-* Built real-time chat, reviews, profile management, and request lifecycle workflows.
-* Followed MVVM architecture with Repository pattern.
+- Backend Development
+- REST API Design
+- Java
+- Spring Boot
+- Object-Oriented Programming
+- Multithreading
+- Concurrency
+- Redis
+- Docker
+- Database Design
+- System Design
+- Data Structures & Algorithms
 
 ---
 
-## 💼 Experience
+# 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,mysql,postgres,spring,docker,git,github,firebase,gradle,maven" />
+</p>
+
+## ⚙️ Backend
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Socket Programming
+- Multithreading
+- Concurrency
+
+## 🗄 Databases
+
+- MySQL
+- PostgreSQL
+- Redis
+- Firebase
+
+## 🐳 DevOps
+
+- Docker
+- Git
+- GitHub
+- Gradle
+- Maven
+
+## 🧰 Tools
+
+- IntelliJ IDEA
+- Android Studio
+- VS Code
+- Postman
+- Swagger UI
+
+---
+
+# 🚀 Featured Projects
+
+### 🔗 [URL Shortener](https://github.com/KaRtHiK-030/url-shortener)
+
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5-green)
+![Redis](https://img.shields.io/badge/Redis-DD0031-red)
+![Docker](https://img.shields.io/badge/Docker-2496ED-blue)
+
+🚀 Scalable URL shortening service built using Java, Spring Boot, Redis, MySQL, and Docker.
+
+**✨ Features**
+- Base62 URL shortening
+- Redis caching
+- QR code generation
+- Click analytics
+- Dockerized deployment
+- Swagger documentation
+- Global exception handling
+
+**Tech Stack:** Java • Spring Boot • Redis • MySQL • Docker
+
+### 🌐 [Multithreaded HTTP Proxy Server](https://github.com/KaRtHiK-030/Multithreaded-HTTP-Proxy-Server)
+
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Sockets](https://img.shields.io/badge/Java_Sockets-Multithreaded-blue)
+
+Concurrent HTTP proxy server built using Java Socket Programming.
+
+**✨ Features**
+- Thread pool
+- HTTP caching
+- Concurrent request handling
+- LRU cache
+- Rate limiting
+- Efficient resource utilization
+
+**Tech Stack:** Java • Sockets • Multithreading
+
+### 📱 [NammaKelsa](https://github.com/KaRtHiK-030/NammaKelsa)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+Android marketplace connecting workers and hirers.
+
+**✨ Features**
+- Firebase authentication
+- Firestore
+- Realtime chat
+- Reviews
+- MVVM architecture
+
+**Tech Stack:** Kotlin • Jetpack Compose • Firebase
+
+---
+
+# 🚀 Currently Working On
+
+- Spring Security
+- Docker
+- Kubernetes
+- System Design
+- AWS
+- Multithreaded HTTP Proxy Server
+
+---
+
+# 💼 Experience
 
 ### MindMatrix
-
 **Android App Development Intern – Generative AI**
-*Feb 2026 – May 2026*
 
-* Developed AI-enabled Android applications and backend integrations.
-* Built scalable REST APIs and optimized communication workflows.
-* Participated in Agile development, code reviews, and CI/CD practices.
+- Developed AI-enabled Android applications.
+- Integrated backend REST APIs with Android applications.
+- Collaborated in Agile development using Git.
+- Improved application performance and maintainability through code optimization.
 
 ### Samsung Innovation Campus
-
 **IoT Trainee**
-*Sep 2025 – Jan 2026*
 
-* Developed IoT solutions for real-time monitoring.
-* Worked with sensors, microcontrollers, and automation workflows.
+- Developed IoT-based monitoring solutions.
+- Worked with sensors, embedded systems, and automation workflows.
+- Gained hands-on experience with real-time device communication.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 **Cambridge Institute of Technology (VTU)**
 
 Bachelor of Engineering – Computer Science Engineering
 
-**CGPA: 7.21 / 10**
+CGPA: **7.21 / 10**
 
 ---
 
-## 📜 Certifications
-
-* NPTEL – Data Structures & Algorithms using Java (2025)
-* Samsung Innovation Campus – Internet of Things (IoT) (2026)
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaRtHiK-030&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaRtHiK-030&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaRtHiK-030&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaRtHiK-030&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KaRtHiK-030&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaRtHiK-030&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaRtHiK-030&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-## 📋 GitHub Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaRtHiK-030&theme=tokyonight"/>
@@ -169,25 +234,26 @@ Bachelor of Engineering – Computer Science Engineering
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karthik-naik-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:karthiknknaik297@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KaRtHiK-030">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ Open to Software Development Engineer, Backend Developer, and Java Developer opportunities.
+<p align="center">
+  <i>"Building scalable software, one commit at a time."</i>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.
+</p>

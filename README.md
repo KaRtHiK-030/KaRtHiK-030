@@ -1,12 +1,20 @@
 # Hi, I'm Karthik Naik 👋
 
 <h3 align="center">
-Software Development Engineer | Backend Engineer | Java | Spring Boot
+Software Development Engineer | Java Backend Engineer | Spring Boot | Concurrent Systems | REST APIs
 </h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Backend+Engineer;Java+%7C+Spring+Boot+%7C+REST+APIs;Always+Learning+New+Technologies">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Backend+Engineer;Java+%7C+Spring+Boot+%7C+REST+APIs;Always+Learning+New+Technologies" />
+Building scalable backend systems with Java, Spring Boot, and Concurrent Programming.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Java+Backend+Engineer;Building+Scalable+Backend+Systems;Spring+Boot+%E2%80%A2+REST+APIs+%E2%80%A2+Concurrent+Programming;Always+Learning+New+Technologies">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Java+Backend+Engineer;Building+Scalable+Backend+Systems;Spring+Boot+%E2%80%A2+REST+APIs+%E2%80%A2+Concurrent+Programming;Always+Learning+New+Technologies" />
   </a>
 </p>
 
@@ -21,13 +29,13 @@ Software Development Engineer | Backend Engineer | Java | Spring Boot
 
 # 🚀 About Me
 
-Backend-focused Software Development Engineer passionate about designing scalable backend systems using **Java, Spring Boot, Redis, MySQL, Docker, and REST APIs**.
+Backend-focused Software Development Engineer passionate about building scalable, reliable, and high-performance backend applications using **Java and Spring Boot**.
 
-I enjoy building high-performance applications, writing clean and maintainable code, designing concurrent systems, and solving real-world engineering problems.
+I enjoy designing RESTful APIs, concurrent systems, caching solutions, and database-driven applications while following clean architecture and object-oriented design principles.
 
-Currently expanding my expertise in **Spring Security, Docker, Kubernetes, AWS, and System Design**.
+My portfolio showcases scalable backend services, concurrent networking systems, and modern Android applications. From a production-ready URL Shortener with Spring Boot, MySQL, and Docker to a Multithreaded HTTP Proxy Server featuring LRU caching and rate limiting, and NammaKelsa, a Firebase-powered worker–hirer marketplace, I enjoy solving real-world engineering problems through clean, maintainable, and scalable software.
 
-I enjoy continuously learning new technologies and applying them to build reliable, scalable, and efficient software solutions.
+Currently learning **Spring Security, Docker, Kubernetes, AWS, and System Design** to build production-ready backend services.
 
 🎯 Open to **Software Development Engineer (SDE)**, **Backend Engineer**, and **Java Developer** opportunities.
 
@@ -38,30 +46,32 @@ I enjoy continuously learning new technologies and applying them to build reliab
 - 🎓 B.E. Computer Science Engineering
 - 💼 Backend-focused Software Development Engineer
 - 🌍 Based in Bengaluru, India
-- ☕ Java • Spring Boot • REST APIs
+- ☕ Java • Spring Boot • Concurrent Programming • REST APIs
 - 🚀 Open to Full-time Software Development Engineer roles
 
 ---
 
 # 🏆 Highlights
 
-- 🚀 Built a scalable URL Shortener using Java, Spring Boot, Redis, MySQL, and Docker.
-- 🌐 Developed a Multithreaded HTTP Proxy Server using Java Sockets and Thread Pools.
-- 📱 Built NammaKelsa, a worker–hirer marketplace using Kotlin and Firebase.
-- 💻 Passionate about Backend Engineering, REST APIs, Concurrent Programming, and Scalable System Design.
+- 🚀 Built a production-ready URL Shortener using Java, Spring Boot, MySQL, Docker, and REST APIs featuring Base62 encoding, QR code generation, analytics, and URL expiration.
+- 🌐 Developed a Multithreaded HTTP Proxy Server featuring ExecutorService thread pools, LRU caching, sliding-window rate limiting, and performance monitoring.
+- 📱 Built NammaKelsa, a Kotlin-based Android marketplace with Firebase Authentication, Firestore, Realtime Database, and MVVM architecture.
+- ⚡ Passionate about Backend Engineering, High-Performance Systems, Concurrent Programming, and Scalable Software Architecture.
 
 ---
 
 # 💡 Core Competencies
 
-- Backend Development
-- REST API Design
 - Java
 - Spring Boot
+- Spring Data JPA
+- Hibernate
+- Backend Development
+- REST API Design
 - Object-Oriented Programming
+- Concurrent Programming
 - Multithreading
-- Concurrency
-- Redis
+- Socket Programming
 - Docker
 - Database Design
 - System Design
@@ -72,7 +82,7 @@ I enjoy continuously learning new technologies and applying them to build reliab
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,mysql,postgres,spring,docker,git,github,firebase,gradle,maven" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,mysql,postgres,redis,docker,git,github,firebase,gradle,maven" />
 </p>
 
 ## ⚙️ Backend
@@ -81,10 +91,13 @@ I enjoy continuously learning new technologies and applying them to build reliab
 - Spring Boot
 - Spring Data JPA
 - Hibernate
-- REST APIs
-- Socket Programming
+- REST API Development
+- Spring Security
+- Swagger / OpenAPI
+- JUnit
 - Multithreading
-- Concurrency
+- Concurrent Programming
+- Socket Programming
 
 ## 🗄 Databases
 
@@ -117,38 +130,42 @@ I enjoy continuously learning new technologies and applying them to build reliab
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5-green)
-![Redis](https://img.shields.io/badge/Redis-DD0031-red)
 ![Docker](https://img.shields.io/badge/Docker-2496ED-blue)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 
-🚀 Scalable URL shortening service built using Java, Spring Boot, Redis, MySQL, and Docker.
+🚀 Production-ready RESTful URL shortening service featuring Base62 encoding, QR code generation, click analytics, and Dockerized deployment.
 
 **✨ Features**
-- Base62 URL shortening
-- Redis caching
-- QR code generation
-- Click analytics
-- Dockerized deployment
-- Swagger documentation
-- Global exception handling
+- Base62 URL Shortening
+- Custom Aliases
+- URL Expiration
+- QR Code Generation
+- Click Analytics
+- Dockerized Deployment
+- Swagger / OpenAPI Documentation
+- Global Exception Handling
 
-**Tech Stack:** Java • Spring Boot • Redis • MySQL • Docker
+**Tech Stack:** Java • Spring Boot • MySQL • Docker • Swagger
 
 ### 🌐 [Multithreaded HTTP Proxy Server](https://github.com/KaRtHiK-030/Multithreaded-HTTP-Proxy-Server)
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Sockets](https://img.shields.io/badge/Java_Sockets-Multithreaded-blue)
+![HTTP](https://img.shields.io/badge/HTTP%2F1.1-Proxy-lightgrey)
 
-Concurrent HTTP proxy server built using Java Socket Programming.
+High-performance concurrent HTTP proxy server built using Java Sockets, ExecutorService, and multithreading.
 
 **✨ Features**
-- Thread pool
-- HTTP caching
+- ExecutorService-based thread pool
+- HTTP/1.1 caching
 - Concurrent request handling
-- LRU cache
-- Rate limiting
-- Efficient resource utilization
+- LRU cache with TTL
+- Sliding-window rate limiting
+- Metrics endpoint
+- Performance testing & efficient resource utilization
+- Benchmarked at ~1150 requests/sec
 
-**Tech Stack:** Java • Sockets • Multithreading
+**Tech Stack:** Java • Sockets • Multithreading • HTTP/1.1
 
 ### 📱 [NammaKelsa](https://github.com/KaRtHiK-030/NammaKelsa)
 
@@ -156,27 +173,40 @@ Concurrent HTTP proxy server built using Java Socket Programming.
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
-Android marketplace connecting workers and hirers.
+Android marketplace application connecting workers and hirers using Kotlin, Jetpack Compose, Firebase, and MVVM architecture.
 
 **✨ Features**
-- Firebase authentication
+- MVVM Architecture
+- Firebase Authentication
 - Firestore
-- Realtime chat
-- Reviews
-- MVVM architecture
+- Realtime Database
+- Worker & Hirer Modules
+- Real-time Chat
+- Reviews & Ratings
+- Favorites
 
 **Tech Stack:** Kotlin • Jetpack Compose • Firebase
 
 ---
 
+# ⭐ Featured Repositories
+
+| Project | Description | Tech |
+|---|---|---|
+| 🌐 [Multithreaded HTTP Proxy Server](https://github.com/KaRtHiK-030/Multithreaded-HTTP-Proxy-Server) | High-performance concurrent HTTP proxy with caching, rate limiting, and performance benchmarking | Java, Sockets |
+| 🔗 [URL Shortener](https://github.com/KaRtHiK-030/url-shortener) | Production-ready RESTful URL shortening service with analytics, QR codes, and Docker | Java, Spring Boot |
+| 📱 [NammaKelsa](https://github.com/KaRtHiK-030/NammaKelsa) | Android worker–hirer marketplace with Firebase backend and MVVM architecture | Kotlin, Firebase |
+
+---
+
 # 🚀 Currently Working On
 
-- Spring Security
-- Docker
-- Kubernetes
-- System Design
-- AWS
-- Multithreaded HTTP Proxy Server
+- 🔐 Spring Security & JWT
+- 🐳 Docker & Containerization
+- ☸ Kubernetes Fundamentals
+- ☁ AWS Cloud Services
+- 🏗 System Design
+- 📚 Advanced Spring Boot
 
 ---
 
@@ -255,5 +285,6 @@ CGPA: **7.21 / 10**
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.
+⭐ Thanks for visiting my GitHub profile!<br/>
+If you found any of my projects interesting, feel free to ⭐ star the repositories or connect with me on LinkedIn.
 </p>

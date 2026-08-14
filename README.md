@@ -242,11 +242,7 @@ CGPA: **7.21 / 10**
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaRtHiK-030&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaRtHiK-030&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KaRtHiK-030&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
